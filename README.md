@@ -124,7 +124,7 @@ Now it is time to create a solidity smart contract.
     }
    ```
    - And that's it! your code 
-   like [this](https://github.com/BlockDevsUnited/BasicFrontEndTutorial/blob/master/contracts/mood.sol)
+   like [this](https://github.com/bluesky-coder/frontend-tutorial/blob/master/contracts/mood.sol)
 
 6. Deploy the contract on the Ropsten Testnet. 
    - Make sure your Metamask is connected to the Ropsten Testnet.
@@ -238,7 +238,7 @@ Celebrate! :bowtie: You just made a webpage that interacted with _a real live Et
 ### If you had trouble with the tutorial, you can try out the example app provided.
 
 ```bash
-git clone https://github.com/BlockDevsUnited/BasicFrontEndTutorial.git
+git clone https://github.com/bluesky-coder/frontend-tutorial.git
 cd BasicFrontEndTutorial
 lite-server
 ```
@@ -252,7 +252,7 @@ lite-server
   - We also verified our source code to [ropsten.etherscan.io](https://ropsten.etherscan.io/address/0xc5afd2d92750612a9619db2282d9037c58fc22cb#code) as an added measure for you to verify what the contract is exactly, and also the ABI is available to _the world_! :grin:
 
 
-- The ABI is also in [this file](https://github.com/BlockDevsUnited/BasicFrontEndTutorial/blob/master/Mood_ABI.json)
+- The ABI is also in [this file](https://github.com/bluesky-coder/frontend-tutorial/blob/master/Mood_ABI.json)
 
 
 #### This illustrates an important point: you can also build a dApp _without needing to write the Ethereum contract yourself_! If you want to use an existing contract written and already on Ethereum!
